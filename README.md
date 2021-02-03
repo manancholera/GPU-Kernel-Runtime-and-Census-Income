@@ -7,3 +7,6 @@ Algorithms used:
 1. Learning Algorithms
 2. Clustering Algorithms
 3. Regression with Gradient Descent
+
+Note: All "Code" files are in .ipynb format. 
+(Jupyter Notebooks)
