@@ -1,3 +1,5 @@
+
+
 # GPU-Kernel-Runtime-and-Census-Income
 Datasets:
 1. GPU Kernel Runtime - https://archive.ics.uci.edu/ml/datasets/SGEMM+GPU+kernel+performance
@@ -7,6 +9,7 @@ Algorithms used:
 1. Learning Algorithms
 2. Clustering Algorithms
 3. Regression with Gradient Descent
+4. Regression Algorithms
 
 Note: All "Code" files are in .ipynb format. 
 (Jupyter Notebooks)
