@@ -1,6 +1,6 @@
 # GPU-Kernel-Runtime-and-Census-Income
 
-Different Machine Learning Algorithms are applied on the two datasets given below to generate various insights and compare key metrics like Accuracy of different ML Models.
+Different Machine Learning Algorithms are applied on the two datasets given below to tweak various attributes of these algorithms, generate various insights to report key findings and compare metrics like Accuracy of our models.
 
 Datasets:
 1. GPU Kernel Runtime - https://archive.ics.uci.edu/ml/datasets/SGEMM+GPU+kernel+performance
